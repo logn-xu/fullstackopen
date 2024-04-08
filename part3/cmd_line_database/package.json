@@ -1,0 +1,15 @@
+{
+  "name": "cmd_line_database",
+  "version": "1.0.0",
+  "description": "Command-line database",
+  "main": "mongo.js",
+  "scripts": {
+    "start": "node mongo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logn",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.2.3"
+  }
+}
