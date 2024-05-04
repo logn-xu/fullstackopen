@@ -23,4 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 
 
+example
+query-anecdotes
+query-notes
+
+redux-anecdotes/redux-anecdotes
+unicafe-redux/redux-anecdotes
+
 
